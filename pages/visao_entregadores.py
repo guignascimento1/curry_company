@@ -20,7 +20,7 @@ df = pd.read_csv('dataset/train.csv')
 #Limpeza do Data Set
 #==============================================
 
-df1 = clean_code( df )
+df1 = df.copy()
 
 # Função para limpar valores 'NaN ', espaços e garantir apenas números
 def limpar_coluna_numerica(df, coluna):
