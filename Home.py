@@ -37,6 +37,6 @@ st.markdown(
     - Visão Restaurante:
         - Indicadores semanais de crescimento dos restaurantes
     ### Ask for Help
-    - Time de Data Sciente no Discord
-      - @guilhermegomesgtr
+    - Meu Linkedin: www.linkedin.com/in/guilherme-gomes-nascimento-04614b188
+      
     """)
